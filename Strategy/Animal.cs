@@ -4,14 +4,14 @@ namespace Strategy
     {
         public InterfaceFlys flyingType;
 
-        public string tryToFly() 
-        {
-            return flyingType.fly();
-        }
-
         public void setFlyingAbility(InterfaceFlys newFlyType)
         {
             flyingType = newFlyType;
+        }
+    
+        public string tryToFly() 
+        {
+            return flyingType.fly();
         }
     }
 }
