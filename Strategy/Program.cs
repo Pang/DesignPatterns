@@ -6,7 +6,14 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Animal woofy = new Dog();
+            Animal tweety = new Bird();
+
+            Console.WriteLine("Dog: " + woofy.tryToFly());
+            Console.WriteLine("Bird: " + tweety.tryToFly());
+
+            woofy.setFlyingAbility(new itFlies());
+            Console.WriteLine("Dog: " + woofy.tryToFly());
         }
     }
 }

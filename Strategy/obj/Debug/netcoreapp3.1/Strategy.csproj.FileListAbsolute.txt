@@ -1,0 +1,11 @@
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+D:\CodeProjects\DesignPatterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+D:\CodeProjects\DesignPatterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+D:\CodeProjects\DesignPatterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+D:\CodeProjects\DesignPatterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+D:\CodeProjects\DesignPatterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+D:\CodeProjects\DesignPatterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
