@@ -3,7 +3,7 @@ A guide created for myself with examples and explanations within the Readme of e
 
 Design patterns are best practices for coding solutions to consistent problems developers run into whilst programming.
 
-- [ ] Strategy example finished
+- [X] Strategy example finished
 - [ ] Observer example finished
 - [ ] Singleton example finished
 - [ ] Decorator example finished
