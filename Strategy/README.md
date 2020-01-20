@@ -1,6 +1,6 @@
 ## Strategy Pattern
 
-Dog inherits the Animal Class which inherits the InterfaceFlys.
+Program.cs instantiates the Dog Class in Main(). The Dog inherits the Animal Class which inherits the InterfaceFlys. The fly property in the interface is not directly accessed but instead changed through using other classes which also inherit the interface. These classes return a value for 'fly()' when called in the Animal method 'setFlyingAbility(new cantFly())'
 
 This strategy's use case is to dynamically change an algorithm or property of a class used by an object at run-time. The algorithm here is that it can fly or it cant, and methods to change this are encapsulated within an interface to hide the logic or prevent unauthorized parties from accessing them.
 
