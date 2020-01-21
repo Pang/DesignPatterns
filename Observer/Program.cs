@@ -6,7 +6,11 @@ namespace Observer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            StockGrabber stockGrabber = new StockGrabber();
+
+            StockObserver observer1 = new StockObserver(stockGrabber);
+
+            stockGrabber.setStockPrice(123.12);
         }
     }
 }

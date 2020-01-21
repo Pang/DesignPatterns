@@ -1,0 +1,3 @@
+D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
