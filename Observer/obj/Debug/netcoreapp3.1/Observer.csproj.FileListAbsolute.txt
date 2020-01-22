@@ -1,3 +1,11 @@
 D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
 D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
 D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+D:\CodeProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+D:\CodeProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
