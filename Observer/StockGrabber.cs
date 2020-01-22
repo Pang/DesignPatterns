@@ -9,7 +9,6 @@ namespace Observer
         private double stockPrice;
 
         public StockGrabber() {
-            
         }
         public void register(Observer newObserver) {
             observers.Add(newObserver);        }

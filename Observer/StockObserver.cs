@@ -9,8 +9,7 @@ namespace Observer
         public StockObserver(Subject stockGrabber) {
             this.stockGrabber = stockGrabber;
             this.observerID = ++observerIDTracker;
-            System.Console.WriteLine("New Observer " + this.observerID);
-
+            System.Console.WriteLine("Observer " + this.observerID + " is now subscribed to Stocks.");
             stockGrabber.register(this);
         }
 
@@ -20,7 +19,7 @@ namespace Observer
         }
 
         public void printStocks() {
-            System.Console.WriteLine(observerID + "\nStock: " + stockPrice);
+            System.Console.WriteLine("Observer " + observerID + " returns:\nStock: " + stockPrice);
         }
     }
 }
