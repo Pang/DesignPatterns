@@ -5,7 +5,7 @@ Design patterns are best practices for coding solutions to consistent problems d
 
 - [X] Strategy example finished
 - [X] Observer example finished
-- [ ] Singleton example finished
+- [x] Singleton example finished
 - [ ] Decorator example finished
 - [ ] State example finished
 
